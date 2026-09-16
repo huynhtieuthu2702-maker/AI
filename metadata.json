@@ -1,0 +1,6 @@
+{
+  "name": "SafeTalk AI",
+  "description": "Người bạn đồng hành cảm xúc dành cho học sinh THCS, giúp nhận diện và diễn đạt cảm xúc an toàn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
